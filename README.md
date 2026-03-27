@@ -52,3 +52,4 @@ The project follows a layered architecture:
 
 ## Git Discipline Notes
 Minimum 10 meaningful commits required.
+
