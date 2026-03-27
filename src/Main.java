@@ -1,3 +1,4 @@
+// Main class to run application
 import gui.LibraryGUI;
 
 public class Main {
