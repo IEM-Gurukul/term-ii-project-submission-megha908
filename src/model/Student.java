@@ -1,3 +1,4 @@
+// Student class inherits User
 package model;
 
 public class Student extends User {
