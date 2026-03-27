@@ -1,4 +1,4 @@
-// GUI for Library Management System
+// Service class for managing library operations
 package service;
 
 import model.Book;
