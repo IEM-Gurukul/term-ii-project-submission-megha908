@@ -1,3 +1,4 @@
+// Abstract User class for library system
 package model;
 
 public abstract class User {
