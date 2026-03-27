@@ -1,3 +1,4 @@
+// Admin class inherits User
 package model;
 
 public class Admin extends User {
