@@ -1,3 +1,4 @@
+// GUI for Library Management System
 package gui;
 
 import model.Book;
